@@ -2,8 +2,17 @@
 
 .odd {
     font-family: Verdana, 'DejaVu Sana', sans-serif;
+    background-color: hwb(0 58% 0%);
 }
 #two {
-    color: 0000ff;
+    color: #0000ff;
     font-size: 36px;
+}
+.odd.three {
+    font-size: 24px;
+}
+#four {
+    background-color: rgb(111, 245, 111);
+    font-size: 24px;
+    font-weight: 700;
 }
