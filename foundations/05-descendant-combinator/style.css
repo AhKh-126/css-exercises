@@ -1,0 +1,17 @@
+div .text{
+    background-color: #ffff00;
+    color: hwb(0 0% 0%);
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+/* ///SAME SOLUTION///
+.container p{
+    background-color: #ffff00;
+    color: hwb(0 0% 0%);
+    font-size: 20px;
+    text-align: center;
+}
+*/
