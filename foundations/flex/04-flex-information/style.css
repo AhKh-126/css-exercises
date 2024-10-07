@@ -4,6 +4,8 @@ body {
 
 .items{
   display: flex;
+  justify-content: center;
+  gap: 52px;
 }
 
 img {
@@ -16,6 +18,7 @@ img {
   font-weight: 900;
   margin-bottom: 32px;
   display: flex;
+  justify-content: center;
 }
 
 /* do not edit this footer */
