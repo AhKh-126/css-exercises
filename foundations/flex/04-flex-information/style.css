@@ -8,9 +8,17 @@ body {
   gap: 52px;
 }
 
+.item{
+  width: 200px;
+}
+
 img {
   width: 100px;
   height: 100px;
+}
+
+.text{
+  flex-wrap: wrap;
 }
 
 .title {
