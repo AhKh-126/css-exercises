@@ -18,6 +18,7 @@ img {
   height: 100px;
 }
 
+/* doesn't exist in solution but it's in the self check */
 .text{
   flex-wrap: wrap;
 }
