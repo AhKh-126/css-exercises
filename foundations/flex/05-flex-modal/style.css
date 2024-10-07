@@ -24,6 +24,13 @@ body {
   display: flex;
 }
 
+.header{
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  font-size: larger;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
