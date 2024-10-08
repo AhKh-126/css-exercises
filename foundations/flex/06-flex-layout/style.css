@@ -15,6 +15,7 @@ ul{
   display: flex;
   padding: 0%;
   margin: 0%;
+  gap: 20px;
 }
 
 a{
@@ -30,10 +31,6 @@ a{
 
 .footer{
   background-color: #eeeeee;
-}
-
-.left-links, .right-links{
-  gap: 20px;
 }
 
 .content{
