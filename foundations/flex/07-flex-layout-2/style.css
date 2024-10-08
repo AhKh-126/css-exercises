@@ -39,6 +39,13 @@ body {
   flex: 0 0 300px ;
 }
 
+.sidebar ul, a{
+  font-size: 24px;
+  list-style-type: none;
+  color: white;
+  text-decoration: none;
+}
+
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
